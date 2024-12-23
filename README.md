@@ -17,7 +17,7 @@ To use GitSight, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/GitSight.git
+   git clone https://github.com/valkarinc/GitSight.git
    cd GitSight
    ```
 
